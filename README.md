@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine-Learning Project 2
 
 This project is related to unsupervised learning, specifically an application of clustering on hyperspectral images. Initially, we process and understand the given data, which consists of an image and the pixel labels. Then, we apply various clustering algorithms, such as K-means, Fuzzy C-means, PCA, etc. We compare the results of these methods and evaluate the clustering using certain metrics. Finally, we use a Convolutional Neural Network (CNN) to extract feature vectors for satellite images. We utilize these for clustering and perform the same process using the pixel data of the images. The methods are then compared.
 
